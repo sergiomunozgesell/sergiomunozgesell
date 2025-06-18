@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hola todos!
+
+## Mi nombre es Sergio Ismael Muñoz Gesell y soy estudiante de ingeniería en informatico.
+
+Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuegos. Actualmente me encuentro desarrollando proyectos para fortalecer mis habiliades de desarrollo y poder pertenecer a una empresa en la que pueda aplicar, medir y mejorar mis habilidadesde desarrollo. Por otra parte me encataría poder conocer gente alrededor del mundo, expertos del área y poder aprender de su valiosa experiencia. 
+
+## 🔧 STACK:
+- [JavaScript]()
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 <!--
 **sergiomunozgesell/sergiomunozgesell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
