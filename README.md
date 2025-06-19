@@ -6,7 +6,9 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
 
 ## 🔧 STACK:
 - [JavaScript]()
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<a href="https://www.tu-certificacion.com/enlace" target="_blank">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Certificación"/>
+</a>
 
 <!--
 **sergiomunozgesell/sergiomunozgesell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
