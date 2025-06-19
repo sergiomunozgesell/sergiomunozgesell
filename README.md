@@ -6,6 +6,7 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
 ## 🔧 STACK:
 <ul>
     <li>
+      <strong>Javascript</strong>
       <a href="https://academia.holamundo.io/certificates/a1bqxglfyr" target="_blank">
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Certificación"/>
       </a>
