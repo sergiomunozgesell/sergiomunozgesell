@@ -22,3 +22,4 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
   <img src="https://img.shields.io/badge/CV-Descargar-blue?style=for-the-badge&logo=readme" alt="Descargar CV">
 </a>
 
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomunoz&show_icons=true&theme=radical)
