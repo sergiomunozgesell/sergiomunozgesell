@@ -7,7 +7,7 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
 <ul>
     <li>
       <a href="https://academia.holamundo.io/certificates/a1bqxglfyr" target="_blank">
-        <img style="witdh:30px, height:30px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Certificación"/>
+        <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Certificación"/>
       </a>
     </li>
     <li>
@@ -17,19 +17,3 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
     </li>
 </ul>
 
-
-
-<!--
-**sergiomunozgesell/sergiomunozgesell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
