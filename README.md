@@ -20,4 +20,4 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
 
 
 ## DESCARGA MI CV !!
-![Sergio Muñoz Gesell CV](./SergioMunozGesell.pdf)
+📄![Sergio Muñoz Gesell CV](./SergioMunozGesell.pdf)
