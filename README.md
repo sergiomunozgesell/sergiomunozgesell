@@ -15,6 +15,11 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
             <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker" alt="Docker"/>
         </a>
     </li>
+    <li>
+        <a href="https://academia.holamundo.io/certificates/itntm0qbm0">
+            <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" alt="Linux"/>
+        </a>
+    </li>
 </ul>
 
 
