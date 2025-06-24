@@ -17,9 +17,6 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
     </li>
 </ul>
 
-## CONTACTAME:
-<a href="./SergioMunozGesell.pdf" download>
-  <img src="https://img.shields.io/badge/CV-Descargar-blue?style=for-the-badge&logo=readme" alt="Descargar CV">
-</a>
+
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomunozgesell&show_icons=true&theme=radical)
