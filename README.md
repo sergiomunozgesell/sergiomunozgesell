@@ -24,4 +24,3 @@ Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuego
 
 
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomunozgesell&show_icons=true&theme=radical)
