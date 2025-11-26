@@ -1,6 +1,6 @@
 # Sergio Muñoz Gesell
 
-Me dicen toy, me gusta programar cosas... 
+Me dicen toy y me gusta programar cosas... 
 
 ## CURSOS:
 <ul>
