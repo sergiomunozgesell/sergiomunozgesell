@@ -1,7 +1,6 @@
 # Sergio Muñoz Gesell
 
-Me apasiona el desarrollo de aplicaciones web, mobile y desarrollo de videojuegos. Actualmente me encuentro desarrollando proyectos para fortalecer mis habiliades de desarrollo y poder pertenecer a una empresa en la que pueda aplicar, medir y mejorar mis habilidadesde desarrollo. Por otra parte me encataría poder conocer gente alrededor del mundo, expertos del área y poder aprender de su valiosa experiencia. 
-
+Me dicen toy, me gusta programar cosas... 
 
 ## TECNOLOGÍAS:
 <ul>
