@@ -2,7 +2,7 @@
 
 Me dicen toy, me gusta programar cosas... 
 
-## TECNOLOGÍAS:
+## CURSOS:
 <ul>
     <li>
       <a href="https://academia.holamundo.io/certificates/a1bqxglfyr" target="_blank">
