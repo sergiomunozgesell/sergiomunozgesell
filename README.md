@@ -13,7 +13,7 @@ Let's work together - [Laboral profile](https://github.com/sergiomunozge-dev)
     </td>
     <td valign="top">
       <h2>I'm Sergio Muñoz Gesell</h2>
-      <p>Passionate about web, mobile and desktop programming, also, the world of videogames.</p>
+      <p>Passionate about web, mobile and desktop programming, also, i love the world of videogames.</p>
     </td>
   </tr>
 </table>
@@ -22,6 +22,7 @@ Let's work together - [Laboral profile](https://github.com/sergiomunozge-dev)
   <tr>
     <td valign="middle">
       <p>I like to take my ideas to the computer, make them come true with creative and interactive experiences.</p>
+      <p>Open to work and colaborate with new ideas!!</p>
     </td>
     <td width="300px" valign="top">
       <img src="./Assets/FishLamp.gif" alt="Demo de la aplicación" width="300px" />
