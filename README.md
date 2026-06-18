@@ -21,8 +21,11 @@ Let's work together - [Laboral profile](https://github.com/sergiomunozge-dev)
 <table>
   <tr>
     <td valign="middle">
-      <p>I like to take my ideas to the computer, make them come true with creative and interactive experiences.</p>
-      <p>Open to work and colaborate with new ideas!!</p>
+      <h3>🚀 Transforming Ideas into Code</h3>
+      <p>I am passionate about bringing abstract concepts straight to the screen, turning them into <b>interactive, efficient, and creative digital experiences</b>. I don't just write code; I focus on building user-friendly interfaces backed by solid architecture.</p>
+      <p>💡 <b>Have a project in mind?</b><br/>
+      I am actively seeking new challenges, exciting projects, and teams to collaborate with. Let's bring those ideas to life!</p>
+      <p>✨ <i>Open to work and collaborate on new ideas!!</i></p>
     </td>
     <td width="300px" valign="top">
       <img src="./Assets/FishLamp.gif" alt="Demo de la aplicación" width="300px" />
