@@ -13,8 +13,7 @@ Let's work together - [Laboral profile](https://github.com/sergiomunozge-dev)
     </td>
     <td valign="top">
       <h2>I'm Sergio Muñoz Gesell</h2>
-      <p>Passionate about web, mobile and desktop programming, also, i love the world of videogames.</p>
-    </td>
+      <p>Passionate about <b>web, mobile, and desktop programming</b>. I enjoy building software from the ground up, exploring <b>Linux operating systems</b>, and diving deep into the worlds of <b>video games and retro tech</b>.</p>    </td>
   </tr>
 </table>
 
