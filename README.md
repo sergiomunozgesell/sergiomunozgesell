@@ -38,27 +38,27 @@ Let's work together - [Laboral profile](https://github.com/sergiomunozge-dev)
 
 <table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="auto">
       <img src="./Assets/React-icon.png" width="80px"/><br/>
       <sub><b>React</b></sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <img src="./Assets/Mongodb-icon.png" width="80px"/><br/>
       <sub><b>MongoDB</b></sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <img src="./Assets/Dockericon.png" width="80px"/><br/>
       <sub><b>Docker</b></sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <img src="./Assets/Nodejs.png" width="80px"/><br/>
       <sub><b>NodeJS</b></sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <img src="./Assets/JSicon.png" width="80px"/><br/>
       <sub><b>JS (and TS)</b></sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <img src="./Assets/Linuxicon.png" width="80px"/><br/>
       <sub><b>Linux</b></sub>
     </td>
