@@ -58,6 +58,10 @@ Let's work together - [Laboral profile](https://github.com/sergiomunozge-dev)
       <img src="./Assets/JSicon.png" width="80px"/><br/>
       <sub><b>JS (and TS)</b></sub>
     </td>
+    <td align="center" width="20%">
+      <img src="./Assets/Linuxicon.png" width="80px"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
   </tr>
 </table>
 
